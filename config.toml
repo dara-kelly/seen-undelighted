@@ -1,0 +1,18 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Dara Kelly Website'
+theme = "ghostwriter-master"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "Dara Kelly's website"
+    description = "When will it end!"
+    github = "https://github.com/XXX"
+    email = "dazk98 at g m a i l dot com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:filename/"
