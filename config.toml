@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'Dara Kelly Website'
-theme = "ghostwriter-master"
+theme = "hermit"
 
 [Params]
     mainSections = ["post"]
